@@ -1,0 +1,25 @@
+# Built application files
+*.apk
+
+# Files for the Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Gradle build files
+.gradle/
+build/
+release/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+#intellij project files
+*.iml
+*.idea
+
+#Firebase configs
+android/google-services.json
+android/src/debug/google-services.json
+google-services.json

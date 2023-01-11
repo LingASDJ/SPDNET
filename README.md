@@ -1,2 +1,7 @@
-# SPDNET
-This is spdnet public repository
+# Setup
+### Server
+
+Get the [server](https://github.com/saqfish/spd-server).
+
+### Set host & key
+Long click the SPDnet button to set your host & key.
